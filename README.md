@@ -36,10 +36,10 @@
 
 ***
 
-<div align="center"><code> <a href="https://discord.gg/JRVPjPe3d8"><img src="https://discord.com/api/guilds/905747656045912064/widget.png?style=banner2"></a> </code></div>
+<div align="center"><code> <a href="https://discord.gg/ZwhEWUEt8J"><img src="https://discord.com/api/guilds/1409912891133530205/widget.png?style=banner2"></a> </code></div>
 
 
 ***
 
 <!-- RAINBOW LINE BOT -->
-<img src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/main/assets/gif/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/notysozu/notysozu/main/assets/gif/rainbow.gif" width="100%">
