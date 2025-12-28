@@ -10,6 +10,9 @@
 <li> 😍 Music + 𝖢𝗈𝖽𝗂𝗇𝗀 </li>
 <li> 😆 𝖯𝗋𝗈𝗇𝗈𝗎𝗇𝗌: 𝖧𝖾/𝖧𝗂𝗆 </li>
 
+![notysozu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=notysozu&theme=react-dark)
+
+
 <br/>
 
 <p align="center">&#8192;</p>
@@ -28,8 +31,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=notysozu&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p
-
-[![notysozu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=notysozu&theme=react-dark)]
 
 <div align="center">
   <img  src="https://raw.githubusercontent.com/notysozu/notysozu/main/assets/svg/grid-snake.svg"
