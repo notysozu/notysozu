@@ -14,9 +14,6 @@
 
 ![notysozu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=notysozu&theme=react-dark)
 
-<p align="center">&#8192;</p>
-<p align="center">&#8192;</p>
-
 <p align="left">
   <a href="https://github.com/notysozu?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
