@@ -27,15 +27,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=notysozu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=notysozu&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+</p
 
-<div>
-  <h3 align="center"> 
-    Visitors Count<br>
-    <img align="center" src="https://profile-counter.glitch.me/notysozu/count.svg" />
-  </h3>
-</div>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=notysozu" width="auto"></img>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=notysozu&theme=xcode" /> </div>
+
 
 <div align="center">
   <img  src="https://raw.githubusercontent.com/notysozu/notysozu/main/assets/svg/grid-snake.svg"
