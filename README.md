@@ -29,6 +29,8 @@
 </a>
 </p
 
+[![notysozu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=notysozu&theme=react-dark)]
+
 <div align="center">
   <img  src="https://raw.githubusercontent.com/notysozu/notysozu/main/assets/svg/grid-snake.svg"
        alt="snake" /></a>
