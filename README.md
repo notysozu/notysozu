@@ -10,10 +10,9 @@
 <li> 😍 Music + 𝖢𝗈𝖽𝗂𝗇𝗀 </li>
 <li> 😆 𝖯𝗋𝗈𝗇𝗈𝗎𝗇𝗌: 𝖧𝖾/𝖧𝗂𝗆 </li>
 
-![notysozu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=notysozu&theme=react-dark)
-
-
 <br/>
+
+![notysozu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=notysozu&theme=react-dark)
 
 <p align="center">&#8192;</p>
 <p align="center">&#8192;</p>
