@@ -29,6 +29,14 @@
 </a>
 </p>
 
+<div>
+  <h3 align="center"> 
+    Visitors Count<br>
+    <img align="center" src="https://profile-counter.glitch.me/notysozu/count.svg" />
+  </h3>
+</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=notysozu" width="auto"></img>
+
 <div align="center">
   <img  src="https://raw.githubusercontent.com/notysozu/notysozu/main/assets/svg/grid-snake.svg"
        alt="snake" /></a>
