@@ -29,9 +29,6 @@
 </a>
 </p
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=notysozu&theme=xcode" /> </div>
-
-
 <div align="center">
   <img  src="https://raw.githubusercontent.com/notysozu/notysozu/main/assets/svg/grid-snake.svg"
        alt="snake" /></a>
