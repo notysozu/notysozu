@@ -35,7 +35,7 @@
 
 ***
 
-<div align="center"><code> <a href="https://discord.gg/ZwhEWUEt8J"><img src="https://discord.com/api/guilds/1409912891133530205/widget.png?style=banner2"></a> </code></div>
+<div align="center"><code> <a href="https://discord.gg/HXRkadasTd"><img src="https://discord.com/api/guilds/1442877577134870580/widget.png?style=banner2"></a> </code></div>
 
 
 ***
