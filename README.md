@@ -6,7 +6,7 @@
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
 <li> 𝖨'𝗆 𝖥𝗋𝗈𝗇𝗍 𝖤𝗇𝖽 and Back End 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 </li>
-<li> 𝖨'𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 working on SmartDesk(rynixsnpsu/smartdesk)</li>
+<li> 𝖨'𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 working on SmartDesk</li>
 <li> Music + 𝖢𝗈𝖽𝗂𝗇𝗀 </li>
 <li> 𝖯𝗋𝗈𝗇𝗈𝗎𝗇𝗌: 𝖧𝖾/𝖧𝗂𝗆 </li>
 
