@@ -10,6 +10,8 @@
 <li> Music + 𝖢𝗈𝖽𝗂𝗇𝗀 </li>
 <li> 𝖯𝗋𝗈𝗇𝗈𝗎𝗇𝗌: 𝖧𝖾/𝖧𝗂𝗆 </li>
 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/HXRkadasTd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/notysozu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/notysozu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonukumarsuman365@gmail.com) 
+
 <br/>
 
 ![notysozu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=notysozu&theme=react-dark)
