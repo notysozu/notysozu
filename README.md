@@ -39,7 +39,7 @@
 
 ***
 
-<div align="center"><code> <a href="https://discord.gg/HXRkadasTd"><img src="https://discord.com/api/guilds/1442877577134870580/widget.png?style=banner2"></a> </code></div>
+<div align="center"><code> <a href="https://discord.gg/y4KPr7Y2y2"><img src="https://discord.com/api/guilds/1482254227995754498/widget.png?style=banner2"></a> </code></div>
 
 
 ***
