@@ -62,22 +62,7 @@
 - `Figma` (design exploration) and `Notion`/`Discord` for context-heavy coordination
 - `PostgreSQL`/Firebase-style backends for prototypes that need persistence
 
-## Timeline & Highlights
-
-- **2021** – AWS Developer Program completion planted the first seeds for cloud-native thinking.
-- **2022** – Bharat Scout & Guides + multiple science contests sharpened problem-solving under pressure; logged volunteer runs for TEDxSNPSU and Under25SNPSU.
-- **2025** – Internship at 3Skill (AI/ML), Google AI Agents Intensive Course graduate, and early traction for SmartDesk and EchoTrace.
-- **2025-2029** – Ongoing B.Tech (AI & Data Science) at Sapthagiri NPS University; balancing deeply technical coursework with product experiments.
-
-## Community & Recognition
-
-- 2nd place, Logo Mania (creative sprint)
-- 16th place, 30th KVS National Children’s Science Congress (KV DRDO, Bengaluru)
-- 1st place, LDB Contest
-- 5th place, KVS Regional Jawaharlal Nehru National Science meet
-- Languages: English (fluent), Hindi (native)
-
-## GitHub Pulse
+## Stats
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=notysozu&theme=react-dark" alt="GitHub activity graph" />
