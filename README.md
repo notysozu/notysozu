@@ -1,47 +1,69 @@
 <!-- RAINBOW LINE TOP -->
-<img src="https://raw.githubusercontent.com/notysozu/notysozu/main/assets/gif/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/notysozu/notysozu/main/assets/gif/rainbow.gif" width="100%" alt="Rainbow divider" />
 
-<h1> 𝗛𝗶! 𝗜'𝗺 Sonu.<img src="https://github.com/notysozu/notysozu/blob/main/assets/gif/Hi.gif?raw=true" width="25"></h1>
-
-<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
-
-<li> 𝖨'𝗆 𝖥𝗋𝗈𝗇𝗍 𝖤𝗇𝖽 and Back End 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 </li>
-<li> 𝖨'𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 working on SmartDesk</li>
-<li> Music + 𝖢𝗈𝖽𝗂𝗇𝗀 </li>
-<li> 𝖯𝗋𝗈𝗇𝗈𝗎𝗇𝗌: 𝖧𝖾/𝖧𝗂𝗆 </li>
-
-<br/>
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/y4KPr7Y2y2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/notysozu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/notysozu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonukumarsuman365@gmail.com) 
-
-<br/>
-
-![notysozu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=notysozu&theme=react-dark)
-
-<p align="left">
-  <a href="https://github.com/notysozu?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
-### ⚙️ &nbsp;GitHub Analytics
+<h1 align="center">
+  Hi, I'm Sonu
+  <img src="https://github.com/notysozu/notysozu/blob/main/assets/gif/Hi.gif?raw=true" width="28" alt="Waving hand" />
+</h1>
 
 <p align="center">
-<a href="https://github.com/notysozu">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=notysozu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=notysozu&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p
+  Frontend-focused full-stack developer building polished, practical web experiences.
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/y4KPr7Y2y2"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://instagram.com/notysozu"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/notysozu"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sonukumarsuman365@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/notysozu?tab=repositories">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo" />
+  </a>
+</p>
+
+## About Me
+
+- I build modern frontend experiences and support them with solid backend work.
+- I’m currently working on **SmartDesk**.
+- I enjoy the mix of **music + coding**.
+- Pronouns: **he/him**
+
+## Tech I Work With
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,git,figma" alt="Tech stack icons" />
+</p>
+
+## GitHub Snapshot
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notysozu&theme=react-dark" alt="GitHub activity graph" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/notysozu">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=notysozu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=notysozu&layout=compact&langs_count=8&theme=algolia" alt="Top languages" />
+  </a>
+</p>
+
+## Contributions
 
 <div align="center">
-  <img  src="https://raw.githubusercontent.com/notysozu/notysozu/main/assets/svg/grid-snake.svg"
-       alt="snake" /></a>
+  <img src="https://raw.githubusercontent.com/notysozu/notysozu/main/assets/svg/grid-snake.svg" alt="Snake contribution graph" />
 </div>
 
 ***
 
-<div align="center"><code> <a href="https://discord.gg/y4KPr7Y2y2"><img src="https://discord.com/api/guilds/1482254227995754498/widget.png?style=banner2"></a> </code></div>
-
+<div align="center">
+  <a href="https://discord.gg/y4KPr7Y2y2">
+    <img src="https://discord.com/api/guilds/1482254227995754498/widget.png?style=banner2" alt="Discord server widget" />
+  </a>
+</div>
 
 ***
 
 <!-- RAINBOW LINE BOT -->
-<img src="https://raw.githubusercontent.com/notysozu/notysozu/main/assets/gif/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/notysozu/notysozu/main/assets/gif/rainbow.gif" width="100%" alt="Rainbow divider" />
