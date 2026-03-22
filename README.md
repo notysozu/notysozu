@@ -22,10 +22,8 @@
   </a>
 </p>
 
-## Snapshot
-
 <p align="center">
-  <strong>Home base:</strong> Bangalore · <strong>Continue learning:</strong> B.Tech CSE (AI & Data Science) · <strong>Current focus:</strong> React · Next.js · JavaScript · Python · Agentic AI
+  <strong>Home base:</strong> Meghalaya · <strong>Continue learning:</strong> B.Tech CSE (AI & Data Science) · <strong>Current focus:</strong> React · Next.js · JavaScript · Python · Agentic AI
 </p>
 
 <table align="center">
