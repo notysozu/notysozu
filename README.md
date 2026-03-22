@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  Frontend-focused full-stack developer building polished, practical web experiences.
+  B.Tech CSE (AI & Data Science) student building web products, AI-driven tools, and thoughtful developer experiences.
 </p>
 
 <p align="center">
@@ -25,16 +25,29 @@
 
 ## About Me
 
-- I build modern frontend experiences and support them with solid backend work.
-- I’m currently working on **SmartDesk**.
-- I enjoy the mix of **music + coding**.
-- Pronouns: **he/him**
+- I'm **Sonu Kumar Suman**, a developer from Bangalore currently pursuing **B.Tech in Computer Science & Engineering (AI & Data Science)**.
+- I enjoy building products that sit at the intersection of **frontend engineering, real-world problem solving, and AI**.
+- I like shipping things that feel clean for users and practical for teams.
+- Current focus: **React, Next.js, JavaScript, Python, and agentic AI workflows**.
 
-## Tech I Work With
+## What I'm Building
+
+- **SmartDesk** - a student feedback platform with dashboards, authentication, voting, and AI-based topic merging to surface recurring issues.
+- **EchoTrace** - an agentic AI platform designed to capture tacit human knowledge and transfer expertise beyond traditional documentation.
+- I also completed an **AI/ML internship at 3Skill**, where I worked on applied AI tasks and real-world problem solving.
+
+## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,git,figma" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,python,c,git,github,vscode,linux" alt="Tech stack icons" />
 </p>
+
+## A Few Highlights
+
+- AI & Data Science student with a strong interest in **product-focused engineering**.
+- Completed the **Google AI Agents Intensive Course**.
+- Active in student communities and events including **TEDxSNPSU** and **Under25SNPSU**.
+- Enjoy working in teams, learning fast, and turning early ideas into usable products.
 
 ## GitHub Snapshot
 
@@ -54,6 +67,12 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/notysozu/notysozu/main/assets/svg/grid-snake.svg" alt="Snake contribution graph" />
 </div>
+
+## Let's Connect
+
+- LinkedIn: <a href="https://linkedin.com/in/notysozu">linkedin.com/in/notysozu</a>
+- GitHub: <a href="https://github.com/notysozu">github.com/notysozu</a>
+- Email: <a href="mailto:sonukumarsuman365@gmail.com">sonukumarsuman365@gmail.com</a>
 
 ***
 
