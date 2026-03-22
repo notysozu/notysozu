@@ -2,12 +2,11 @@
 <img src="https://raw.githubusercontent.com/notysozu/notysozu/main/assets/gif/rainbow.gif" width="100%" alt="Rainbow divider" />
 
 <h1 align="center">
-  Hi, I'm Sonu
-  <img src="https://github.com/notysozu/notysozu/blob/main/assets/gif/Hi.gif?raw=true" width="28" alt="Waving hand" />
+  Hi, I'm Sonu <img src="https://github.com/notysozu/notysozu/blob/main/assets/gif/Hi.gif?raw=true" width="28" alt="Waving hand" />
 </h1>
 
 <p align="center">
-  B.Tech CSE (AI & Data Science) student building web products, AI-driven tools, and thoughtful developer experiences.
+  B.Tech CSE (AI & Data Science) student + product-minded engineer building web & agentic AI experiences that feel alive and reliable.
 </p>
 
 <p align="center">
@@ -23,41 +22,62 @@
   </a>
 </p>
 
-## About Me
+## Snapshot
 
-- I'm **Sonu Kumar Suman**, a developer from Bangalore currently pursuing **B.Tech in Computer Science & Engineering (AI & Data Science)**.
-- I enjoy building products that sit at the intersection of **frontend engineering, real-world problem solving, and AI**.
-- I like shipping things that feel clean for users and practical for teams.
-- Current focus: **React, Next.js, JavaScript, Python, and agentic AI workflows**.
-
-## What I'm Building
-
-- **SmartDesk** - a student feedback platform with dashboards, authentication, voting, and AI-based topic merging to surface recurring issues.
-- **EchoTrace** - an agentic AI platform designed to capture tacit human knowledge and transfer expertise beyond traditional documentation.
-- I also completed an **AI/ML internship at 3Skill**, where I worked on applied AI tasks and real-world problem solving.
-
-## Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,python,c,git,github,vscode,linux" alt="Tech stack icons" />
+<p align="center">
+  <strong>Home base:</strong> Bangalore · <strong>Continue learning:</strong> B.Tech CSE (AI & Data Science) · <strong>Current focus:</strong> React · Next.js · JavaScript · Python · Agentic AI
 </p>
 
-## Tools & Platforms
+<table align="center">
+  <tr>
+    <td align="center">
+      <p><strong>SmartDesk</strong></p>
+      <p>Student feedback platform with dashboards, voting, AI topic merges, and secure access.</p>
+    </td>
+    <td align="center">
+      <p><strong>EchoTrace</strong></p>
+      <p>Agentic knowledge capture tool that blends human context, documentation, and conversational AI.</p>
+    </td>
+    <td align="center">
+      <p><strong>3Skill Internship</strong></p>
+      <p>Applied AI/ML workstream solving real-world product problems (Nov ’25 – Jan ’26).</p>
+    </td>
+  </tr>
+</table>
 
-- `GitHub` – repo hosting, CI, and collaboration for every project.
-- `VS Code` – core editor with terminal, live share, and extensions tuned to React/Python work.
-- `Linux (Arch)` – daily driver that keeps tooling flexible while I explore low-level debugging and scripting.
-- `Arduino IDE` – for quick prototyping and sensor experiments before wiring them into digital dashboards.
-- `Discord`, `LinkedIn`, and `Email` keep my community discussions and project updates flowing.
+## Why I Build
 
-## A Few Highlights
+- I believe AI feels most useful when it complements human intent—so I pair thoughtful UI/UX with applied models.
+- I am drawn to early-stage product work: translating messy insight into a polished flow that travels from idea to ship.
+- Collaboration is fuel; I lean on communities like TEDxSNPSU, Under25SNPSU, and open Discord workspaces to test ideas and move quickly.
 
-- AI & Data Science student with a strong interest in **product-focused engineering**.
-- Completed the **Google AI Agents Intensive Course**.
-- Active in student communities and events including **TEDxSNPSU** and **Under25SNPSU**.
-- Enjoy working in teams, learning fast, and turning early ideas into usable products.
+## Tools & Stack
 
-## GitHub Snapshot
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,python,c,git,github,vscode,linux,arduino" alt="Tech stack icons" />
+</p>
+
+- `React`, `Next.js`, `JavaScript`, `TypeScript`, `Python`, `C`
+- `GitHub`, `VS Code`, `Arduino IDE`, `Linux (Arch)`
+- `Figma` (design exploration) and `Notion`/`Discord` for context-heavy coordination
+- `PostgreSQL`/Firebase-style backends for prototypes that need persistence
+
+## Timeline & Highlights
+
+- **2021** – AWS Developer Program completion planted the first seeds for cloud-native thinking.
+- **2022** – Bharat Scout & Guides + multiple science contests sharpened problem-solving under pressure; logged volunteer runs for TEDxSNPSU and Under25SNPSU.
+- **2025** – Internship at 3Skill (AI/ML), Google AI Agents Intensive Course graduate, and early traction for SmartDesk and EchoTrace.
+- **2025-2029** – Ongoing B.Tech (AI & Data Science) at Sapthagiri NPS University; balancing deeply technical coursework with product experiments.
+
+## Community & Recognition
+
+- 2nd place, Logo Mania (creative sprint)
+- 16th place, 30th KVS National Children’s Science Congress (KV DRDO, Bengaluru)
+- 1st place, LDB Contest
+- 5th place, KVS Regional Jawaharlal Nehru National Science meet
+- Languages: English (fluent), Hindi (native)
+
+## GitHub Pulse
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=notysozu&theme=react-dark" alt="GitHub activity graph" />
@@ -70,17 +90,12 @@
   </a>
 </p>
 
-## Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/notysozu/notysozu/main/assets/svg/grid-snake.svg" alt="Snake contribution graph" />
-</div>
-
-## Let's Connect
+## Stay Connected
 
 - LinkedIn: <a href="https://linkedin.com/in/notysozu">linkedin.com/in/notysozu</a>
 - GitHub: <a href="https://github.com/notysozu">github.com/notysozu</a>
 - Email: <a href="mailto:sonukumarsuman365@gmail.com">sonukumarsuman365@gmail.com</a>
+- Discord: <a href="https://discord.gg/y4KPr7Y2y2">join the server</a>
 
 ***
 
