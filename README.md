@@ -42,6 +42,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,python,c,git,github,vscode,linux" alt="Tech stack icons" />
 </p>
 
+## Tools & Platforms
+
+- `GitHub` – repo hosting, CI, and collaboration for every project.
+- `VS Code` – core editor with terminal, live share, and extensions tuned to React/Python work.
+- `Linux (Arch)` – daily driver that keeps tooling flexible while I explore low-level debugging and scripting.
+- `Arduino IDE` – for quick prototyping and sensor experiments before wiring them into digital dashboards.
+- `Discord`, `LinkedIn`, and `Email` keep my community discussions and project updates flowing.
+
 ## A Few Highlights
 
 - AI & Data Science student with a strong interest in **product-focused engineering**.
