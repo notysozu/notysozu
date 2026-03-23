@@ -84,7 +84,7 @@
 
 <div align="center">
   <a href="https://discord.gg/y4KPr7Y2y2">
-    <img src="https://discord.com/api/guilds/1482254227995754498/widget.png?style=banner2" alt="Discord server widget" />
+    <img src="https://discord.com/api/guilds/148225422799575449/widget.png?style=banner2" alt="Discord server widget" />
   </a>
 </div>
 
