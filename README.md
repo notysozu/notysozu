@@ -48,18 +48,11 @@
   </a>
 </p>
 
-## Stay Connected
-
-- LinkedIn: <a href="https://linkedin.com/in/notysozu">linkedin.com/in/notysozu</a>
-- GitHub: <a href="https://github.com/notysozu">github.com/notysozu</a>
-- Email: <a href="mailto:sonukumarsuman365@gmail.com">sonukumarsuman365@gmail.com</a>
-- Discord: <a href="https://discord.gg/y4KPr7Y2y2">join the server</a>
-
 ***
 
 <div align="center">
   <a href="https://discord.gg/y4KPr7Y2y2">
-    <img src="https://discord.com/api/guilds/1482254227995754498/widget.png?style=banner2" alt="Discord server widget" />
+    <img src="https://discord.com/api/guilds/148225422799575449/widget.png?style=banner2" alt="Discord server widget" />
   </a>
 </div>
 
