@@ -22,10 +22,6 @@
   </a>
 </p>
 
-<p align="center">
-  <strong>Home base:</strong> Meghalaya · <strong>Continue learning:</strong> B.Tech CSE (AI & Data Science) · <strong>Current focus:</strong> React · Next.js · JavaScript · Python · Agentic AI
-</p>
-
 ## Why I Build
 
 - I believe AI feels most useful when it complements human intent—so I pair thoughtful UI/UX with applied models.
