@@ -6,10 +6,6 @@
 </h1>
 
 <p align="center">
-  B.Tech CSE (AI & Data Science) student + product-minded engineer building web & agentic AI experiences that feel alive and reliable.
-</p>
-
-<p align="center">
   <a href="https://discord.gg/y4KPr7Y2y2"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://instagram.com/notysozu"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://linkedin.com/in/notysozu"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
