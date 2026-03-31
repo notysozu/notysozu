@@ -26,23 +26,6 @@
   <strong>Home base:</strong> Meghalaya · <strong>Continue learning:</strong> B.Tech CSE (AI & Data Science) · <strong>Current focus:</strong> React · Next.js · JavaScript · Python · Agentic AI
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <p><strong>SmartDesk</strong></p>
-      <p>Student feedback platform with dashboards, voting, AI topic merges, and secure access.</p>
-    </td>
-    <td align="center">
-      <p><strong>EchoTrace</strong></p>
-      <p>Agentic knowledge capture tool that blends human context, documentation, and conversational AI.</p>
-    </td>
-    <td align="center">
-      <p><strong>3Skill Internship</strong></p>
-      <p>Applied AI/ML workstream solving real-world product problems (Nov ’25 – Jan ’26).</p>
-    </td>
-  </tr>
-</table>
-
 ## Why I Build
 
 - I believe AI feels most useful when it complements human intent—so I pair thoughtful UI/UX with applied models.
