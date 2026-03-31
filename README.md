@@ -20,9 +20,9 @@
 
 ## Why I Build
 
-- I believe AI feels most useful when it complements human intent—so I pair thoughtful UI/UX with applied models.
+- I believe AI feels most useful when it complements human intent - so I pair thoughtful UI/UX with applied models.
 - I am drawn to early-stage product work: translating messy insight into a polished flow that travels from idea to ship.
-- Collaboration is fuel; I lean on communities like TEDxSNPSU, Under25SNPSU, and open Discord workspaces to test ideas and move quickly.
+- Collaboration is fuel.
 
 ## Tools & Stack
 
