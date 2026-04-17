@@ -22,17 +22,17 @@
 ## 👤 Quick Bio
 
 <p align="center">
-  🔭 <strong>Currently finalizing B.Tech in CSE (AI)</strong><br>
-  💡 <strong>Blending thoughtful UI/UX with AI models</strong><br>
-  🚀 <strong>Focused on building disruptive SaaS products</strong><br>
-  🤝 <strong>Open to collaborating on open-source & MVPs</strong>
+  <strong>Currently finalizing B.Tech in CSE (AI)</strong><br>
+  <strong>Blending thoughtful UI/UX with AI models</strong><br>
+  <strong>Focused on building disruptive SaaS products</strong><br>
+  <strong>Open to collaborating on open-source & MVPs</strong>
 </p>
 
 </div>
 
 <br/>
 
-## 🤝 Connect With Me
+## Connect
 
 <p align="center">
   <a href="https://sonu-kumar.in/"><img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -43,7 +43,7 @@
 
 <div align="center">
 
-## 🛠️ My Tech Stack
+## Tech Stack
 
 **Frontend**<br>
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" alt="Frontend" />
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## Analytics
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=notysozu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
@@ -69,8 +69,7 @@
 
 </div>
 
-## Open Source Work
-
+## Open Source
 | Project | Description | Target Flow / Tech |
 | :--- | :--- | :--- |
 | **[smartdesk](https://github.com/notysozu/smartdesk)** | AI-assisted student feedback intelligence platform for universities. | `Semantic GenAI` |
