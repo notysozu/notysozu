@@ -42,7 +42,7 @@
 </p>
 
 <div align="center">
-
+<!-- 
 ## Tech Stack
 
 **Frontend**<br>
@@ -56,7 +56,7 @@
 
 </div>
 
-<div align="center">
+<div align="center"> -->
 
 ## Analytics
 
