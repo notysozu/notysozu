@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-12,431-0e75b6?style=for-the-badge" alt="Sonu Profile Views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-102,431-0e75b6?style=for-the-badge" alt="Sonu Profile Views" />
 </p>
 
 <br/>
