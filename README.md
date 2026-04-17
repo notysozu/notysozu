@@ -55,10 +55,10 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,figma,notion,discord" alt="Tools" />
 
 </div>
-
+<!-- 
 <div align="center"> -->
 
-## Analytics
+## Analytics -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=notysozu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
