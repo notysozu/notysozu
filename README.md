@@ -17,27 +17,18 @@
 
 <br/>
 
+<div align="center">
+
 ## 👤 Quick Bio
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="33%" valign="top">
-        <strong>🎓 Background</strong><br>
-        B.Tech CSE (AI & DS)<br>
-        Sapthagiri NPS University
-    </td>
-    <td width="33%" valign="top">
-        <strong>🚀 Goals</strong><br>
-        Building Disruptive Tech<br>
-        Open Source Evangelism
-    </td>
-    <td width="33%" valign="top">
-        <strong>⚡ Hobbies</strong><br>
-        System Tinkering<br>
-        UI Design Exploration
-    </td>
-  </tr>
-</table>
+<p align="center">
+  🔭 <strong>Currently finalizing B.Tech in CSE (AI)</strong><br>
+  💡 <strong>Blending thoughtful UI/UX with AI models</strong><br>
+  🚀 <strong>Focused on building disruptive SaaS products</strong><br>
+  🤝 <strong>Open to collaborating on open-source & MVPs</strong>
+</p>
+
+</div>
 
 <br/>
 
@@ -50,14 +41,10 @@
   <a href="mailto:contact@sonu-kumar.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<br/>
-
-
+<div align="center">
 
 ## 🛠️ My Tech Stack
 
-<div align="center">
-  
 **Frontend**<br>
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" alt="Frontend" />
 
@@ -69,26 +56,18 @@
 
 </div>
 
-<br/>
+<div align="center">
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notysozu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=notysozu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=notysozu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Stat Card" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=notysozu&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Langs" width="100%" />
-    </td>
-  </tr>
-</table>
+<br>
 
-<br/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=notysozu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Stat Card" height="180px" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=notysozu&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Langs" height="180px" />
+
+</div>
 
 ## Open Source Work
 
