@@ -1,20 +1,22 @@
-<!-- RAINBOW LINE TOP -->
-<img src="https://raw.githubusercontent.com/notysozu/notysozu/main/assets/gif/rainbow.gif" width="100%" alt="Sonu Kumar Suman Rainbow Divider" />
+<!-- BANNER / HEADER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/notysozu/notysozu/main/assets/gif/rainbow.gif" width="100%" alt="Rainbow divider" />
+</p>
 
 <h1 align="center">
-  Hi, I'm Sonu Kumar Suman <img src="https://github.com/notysozu/notysozu/blob/main/assets/gif/Hi.gif?raw=true" width="28" alt="Waving hand" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&size=38&center=true&vCenter=true&width=800&height=80&duration=3000&color=0e75b6&lines=Hi%2C+I'm+Sonu+Kumar+Suman+👋;Software+Engineer;AI+Student+and+Builder;Welcome+to+my+Github!" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
-  Software Developer & UI/UX Enthusiast | <a href="https://sonu-kumar.in/">sonu-kumar.in</a>
+  Full-Stack Developer & UI/UX Enthusiast | <a href="https://sonu-kumar.in/">sonu-kumar.in</a>
 </h3>
 
 <p align="center">
-  Welcome to my GitHub! I'm <strong>Sonu Kumar Suman</strong>, a passionate software developer who loves building intuitive web applications and products. To see my full portfolio, projects, and articles, visit my website at <a href="https://sonu-kumar.in/"><strong>sonu-kumar.in</strong></a>.
+  I'm a passionate software developer who loves building intuitive web applications, deploying AI models, and optimizing user experiences. Check out my full portfolio and articles at <a href="https://sonu-kumar.in/"><strong>sonu-kumar.in</strong></a>.
 </p>
 
 <p align="center">
-  <a href="https://sonu-kumar.in/"><img src="https://img.shields.io/badge/Portfolio-sonu--kumar.in-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sonu Kumar Suman Portfolio Website" /></a>
+  <a href="https://sonu-kumar.in/"><img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sonu Kumar Suman Portfolio Website" /></a>
   <a href="https://linkedin.com/in/notysozu"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sonu Kumar Suman LinkedIn" /></a>
   <a href="https://discord.gg/y4KPr7Y2y2"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Sonu Kumar Suman Discord" /></a>
   <a href="https://instagram.com/notysozu"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Sonu Kumar Suman Instagram" /></a>
@@ -25,59 +27,53 @@
   <img src="https://komarev.com/ghpvc/?username=notysozu&label=Profile%20Views&color=0e75b6&style=flat" alt="Sonu Kumar Suman Github Profile Views" />
 </p>
 
-## <img src="https://api.iconify.design/fa6-solid:user-astronaut.svg?color=%230e75b6" width="24" height="24" style="vertical-align: sub;" /> About Me (Sonu Kumar Suman)
+<br/>
 
-- <img src="https://api.iconify.design/fa6-solid:rocket.svg?color=%230e75b6" width="16" height="16" style="vertical-align: text-bottom;" /> I believe AI feels most useful when it complements human intent - so I pair **thoughtful UI/UX with applied models**.
-- <img src="https://api.iconify.design/fa6-solid:lightbulb.svg?color=%230e75b6" width="16" height="16" style="vertical-align: text-bottom;" /> I am drawn to **early-stage product work**: translating messy insights into a polished flow that travels seamlessly from idea to ship.
-- <img src="https://api.iconify.design/fa6-solid:handshake.svg?color=%230e75b6" width="16" height="16" style="vertical-align: text-bottom;" /> Collaboration is fuel. I love building things with great people!
-- <img src="https://api.iconify.design/fa6-solid:globe.svg?color=%230e75b6" width="16" height="16" style="vertical-align: text-bottom;" /> Learn more about me and my work on my [official portfolio website: sonu-kumar.in](https://sonu-kumar.in/)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist%20Dark%20Skin%20Tone.png" alt="Technologist" width="32" height="32" style="vertical-align: middle;" /> About Me (Sonu Kumar Suman)
 
-## <img src="https://api.iconify.design/fa6-solid:screwdriver-wrench.svg?color=%230e75b6" width="24" height="24" style="vertical-align: sub;" /> Tools & Stack
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="22" height="22" style="vertical-align: sub;" /> I believe AI is most useful when it complements human intent - pairing **thoughtful UI/UX with applied AI models**.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="22" height="22" style="vertical-align: sub;" /> I am drawn to **early-stage product work**: translating messy insights into a polished flow that travels from idea to shipping.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="22" height="22" style="vertical-align: sub;" /> Collaboration is fuel. I love building disruptive tech with great people!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe" width="22" height="22" style="vertical-align: sub;" /> Drop by my [official portfolio website: sonu-kumar.in](https://sonu-kumar.in/) to see deeper insights into my tech stack.
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="32" height="32" style="vertical-align: middle;" /> Tools & Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python,c,html,css,git,github,vscode,linux,arduino,postgresql,figma,notion,discord&perline=8" alt="Sonu Kumar Suman Tech Stack" />
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python,c,html,css,git,github,vscode,linux,arduino,postgresql,figma,notion,discord&perline=10" alt="Sonu Kumar Suman Tech Stack" />
   </a>
 </p>
 
-- **Frontend & Core**: `React`, `Next.js`, `TypeScript`, `JavaScript`, `HTML`, `CSS`
-- **Backend & Tools**: `Python`, `C`, `PostgreSQL`, `Firebase`
-- **Environment**: `GitHub`, `VS Code`, `Arduino IDE`, `Linux (Arch)`
-- **Design & Workflows**: `Figma`, `Notion`, `Discord`
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="32" height="32" style="vertical-align: middle;" /> Featured Projects
 
-## <img src="https://api.iconify.design/fa6-solid:laptop-code.svg?color=%230e75b6" width="24" height="24" style="vertical-align: sub;" /> Featured Projects
+| Project | Description |
+| :--- | :--- |
+| **[smartdesk](https://github.com/notysozu/smartdesk)** | AI-assisted student feedback intelligence platform for universities using semantic understanding. |
+| **[secure-code-env](https://github.com/notysozu/secure-code-env)** | An AI environment for security agents built on the OpenEnv standard (detects/patches vulnerabilities). |
+| **[EchoTrace](https://github.com/notysozu/EchoTrace)** | An audio-first platform letting users experience history through immersive sound and real speeches. |
+| **[why.fi](https://github.com/notysozu/why.fi)** | A webcam-based emotion-mimic game with a gamified, pixel-art inspired internet-native aesthetic. |
 
-- **[smartdesk](https://github.com/notysozu/smartdesk)**: An AI-assisted student feedback intelligence platform designed to help universities collect, cluster, and prioritize student issues using semantic understanding.
-- **[secure-code-env](https://github.com/notysozu/secure-code-env)**: An AI environment for security agents built on the OpenEnv standard. It detects, reproduces, and patches vulnerabilities robustly and safely.
-- **[EchoTrace](https://github.com/notysozu/EchoTrace)**: An audio-first platform letting users experience history through immersive sound, real speeches, and multi-perspective narratives with rich soundscapes.
-- **[why.fi](https://github.com/notysozu/why.fi)**: A webcam-based emotion-mimic game with a gamified, funny, absurd, and slightly chaotic UI featuring a pixel-art inspired internet-native aesthetic.
-
-## <img src="https://api.iconify.design/fa6-solid:chart-column.svg?color=%230e75b6" width="24" height="24" style="vertical-align: sub;" /> GitHub Stats & Activity
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=notysozu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Sonu Kumar Suman GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=notysozu&layout=compact&langs_count=8&theme=algolia" alt="Sonu Kumar Suman Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=notysozu&theme=react-dark" alt="Sonu Kumar Suman GitHub Action Graph" />
-</p>
-
-## <img src="https://api.iconify.design/fa6-solid:user-group.svg?color=%230e75b6" width="24" height="24" style="vertical-align: sub;" /> Connect & Collaborate
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bar%20Chart.png" alt="Chart" width="32" height="32" style="vertical-align: middle;" /> GitHub Stats & Activity
 
 <div align="center">
-  <a href="https://discord.gg/y4KPr7Y2y2">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=notysozu&show_icons=true&theme=vercel&include_all_commits=true&count_private=true&hide_border=true" alt="Sonu Kumar Suman GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=notysozu&layout=compact&langs_count=6&theme=vercel&hide_border=true" alt="Sonu Kumar Suman Top Languages" />
+</div>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=notysozu&theme=github&hide_border=true" alt="Sonu Kumar Suman GitHub Action Graph" />
+</p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving" width="32" height="32" style="vertical-align: middle;" /> Connect & Collaborate
+
+<div align="center">
+  <a href="https://discord.gg/y4KPr7Y2y2" target="_blank">
     <img src="https://discord.com/api/guilds/1482254227995754498/widget.png?style=banner2" alt="Sonu Kumar Suman Discord Server Widget" />
   </a>
 </div>
 
 ***
 
-<!-- RAINBOW LINE BOT -->
-<img src="https://raw.githubusercontent.com/notysozu/notysozu/main/assets/gif/rainbow.gif" width="100%" alt="Sonu Kumar Suman Rainbow Divider Bottom" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/notysozu/notysozu/main/assets/gif/rainbow.gif" width="100%" alt="Sonu Kumar Suman Rainbow Divider Bottom" />
+</p>
