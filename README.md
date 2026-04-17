@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=notysozu&base=100000&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Sonu Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=notysozu&base=128329&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Sonu Profile Views" />
 </p>
 
 <br/>
