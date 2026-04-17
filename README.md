@@ -29,11 +29,11 @@ I'm a passionate software developer who loves building intuitive web application
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="55%" valign="center">
-        🔭 I’m currently finalizing <strong>B.Tech in CSE (AI)</strong><br><br>
-        💡 I blend <strong>thoughtful UI/UX with AI models</strong><br><br>
-        🌱 My stack focuses on <strong>Next.js, Python, & Node.js</strong><br><br>
-        🤝 Open to collaborating on <strong>startup MVPs & open-source</strong><br><br>
-        💬 Ask me about <strong>React, GenAI APIs, & System Design</strong><br>
+         I’m currently finalizing <strong>B.Tech in CSE (AI)</strong><br><br>
+         I blend <strong>thoughtful UI/UX with AI models</strong><br><br>
+         My stack focuses on <strong>Next.js, Python, & Node.js</strong><br><br>
+         Open to collaborating on <strong>startup MVPs & open-source</strong><br><br>
+         Ask me about <strong>React, GenAI APIs, & System Design</strong><br>
     </td>
     <td width="45%" align="center" valign="top">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=notysozu&theme=tokyonight&hide_border=true" alt="Sonu Kumar Suman GitHub Streak" width="100%" />
@@ -41,7 +41,7 @@ I'm a passionate software developer who loves building intuitive web application
   </tr>
 </table>
 
-## 🛠️ Tools & Stack
+## Tools & Stack
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
@@ -49,7 +49,7 @@ I'm a passionate software developer who loves building intuitive web application
   </a>
 </p>
 
-## 📊 GitHub Analytics
+## Analytics
 
 <table width="100%">
   <tr>
@@ -62,7 +62,7 @@ I'm a passionate software developer who loves building intuitive web application
   </tr>
 </table>
 
-## 🚀 Featured Open Source Work
+## Open Source Work
 
 | Project | Description | Target Flow / Tech |
 | :--- | :--- | :--- |
@@ -71,7 +71,7 @@ I'm a passionate software developer who loves building intuitive web application
 | **[EchoTrace](https://github.com/notysozu/EchoTrace)** | Audio-first platform to experience history through immersive sound. | `Immersive UX` |
 | **[why.fi](https://github.com/notysozu/why.fi)** | Emotion-mimic game with a gamified, pixel-art internet-native aesthetic. | `Webcam AI` |
 
-## 🐍 My Coding Contributions Activity
+## Contributions
 
 <p align="center">
   <picture>
