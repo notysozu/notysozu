@@ -42,23 +42,6 @@
 </p>
 
 <div align="center">
-<!-- 
-## Tech Stack
-
-**Frontend**<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" alt="Frontend" />
-
-**Backend & DB**<br>
-<img src="https://skillicons.dev/icons?i=python,c,nodejs,postgresql,firebase" alt="Backend" />
-
-**Tools & Environment**<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,figma,notion,discord" alt="Tools" />
-
-</div>
-<!-- 
-<div align="center"> -->
-
-## Analytics -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=notysozu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
