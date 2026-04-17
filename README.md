@@ -7,60 +7,88 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&size=38&center=true&vCenter=true&width=800&height=80&duration=3000&color=0e75b6&lines=Hi%2C+I'm+Sonu+Kumar+Suman+👋;Software+Engineer;AI+Student+and+Builder;Welcome+to+my+Github!" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">
-  Full-Stack Developer & UI/UX Enthusiast | <a href="https://sonu-kumar.in/">sonu-kumar.in</a>
-</h3>
-
 <p align="center">
-  <a href="https://sonu-kumar.in/"><img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sonu Kumar Suman Portfolio Website" /></a>
-  <a href="https://linkedin.com/in/notysozu"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sonu Kumar Suman LinkedIn" /></a>
-  <a href="https://discord.gg/y4KPr7Y2y2"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Sonu Kumar Suman Discord" /></a>
-  <a href="mailto:contact@sonu-kumar.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sonu Kumar Suman" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&size=20&center=true&vCenter=true&width=600&height=40&duration=4000&color=0e75b6&lines=Currently+Exploring+Agentic+AI;Building+Scalable+SaaS+Solutions;Passionate+about+UI/UX+Optimization" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-12,431-0e75b6?style=flat" alt="Sonu Profile Views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-12,431-0e75b6?style=for-the-badge" alt="Sonu Profile Views" />
 </p>
 
-## ⚡ Quick Bio
+<br/>
 
-I'm a passionate software developer who loves building intuitive web applications, deploying AI models, and optimizing user experiences. Check out my full portfolio and articles at <a href="https://sonu-kumar.in/"><strong>sonu-kumar.in</strong></a>. <br><br>
+## 👤 Quick Bio
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="55%" valign="center">
-         I’m currently finalizing <strong>B.Tech in CSE (AI)</strong><br><br>
-         I blend <strong>thoughtful UI/UX with AI models</strong><br><br>
-         My stack focuses on <strong>Next.js, Python, & Node.js</strong><br><br>
-         Open to collaborating on <strong>startup MVPs & open-source</strong><br><br>
-         Ask me about <strong>React, GenAI APIs, & System Design</strong><br>
+    <td width="33%" valign="top">
+        <strong>🎓 Background</strong><br>
+        B.Tech CSE (AI & DS)<br>
+        Sapthagiri NPS University
     </td>
-    <td width="45%" align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=notysozu&theme=tokyonight&hide_border=true" alt="Sonu Kumar Suman GitHub Streak" width="100%" />
+    <td width="33%" valign="top">
+        <strong>🚀 Goals</strong><br>
+        Building Disruptive Tech<br>
+        Open Source Evangelism
+    </td>
+    <td width="33%" valign="top">
+        <strong>⚡ Hobbies</strong><br>
+        System Tinkering<br>
+        UI Design Exploration
     </td>
   </tr>
 </table>
 
-## Tools & Stack
+<br/>
+
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python,c,html,css,git,github,vscode,linux,arduino,postgresql,figma,notion,discord&perline=10" alt="Sonu Kumar Suman Tech Stack" />
-  </a>
+  <a href="https://sonu-kumar.in/"><img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/notysozu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://discord.gg/y4KPr7Y2y2"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:contact@sonu-kumar.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-## Analytics
+<br/>
+
+
+
+## 🛠️ My Tech Stack
+
+<div align="center">
+  
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" alt="Frontend" />
+
+**Backend & DB**<br>
+<img src="https://skillicons.dev/icons?i=python,c,nodejs,postgresql,firebase" alt="Backend" />
+
+**Tools & Environment**<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,figma,notion,discord" alt="Tools" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notysozu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=notysozu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Sonu Kumar Suman GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=notysozu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Stat Card" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=notysozu&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Sonu Kumar Suman Top Languages" width="100%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=notysozu&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Langs" width="100%" />
     </td>
   </tr>
 </table>
+
+<br/>
 
 ## Open Source Work
 
