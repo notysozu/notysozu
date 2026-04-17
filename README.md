@@ -18,7 +18,7 @@
   <a href="https://linkedin.com/in/notysozu"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sonu Kumar Suman LinkedIn" /></a>
   <a href="https://discord.gg/y4KPr7Y2y2"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Sonu Kumar Suman Discord" /></a>
   <a href="https://instagram.com/notysozu"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Sonu Kumar Suman Instagram" /></a>
-  <a href="mailto:sonukumarsuman365@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sonu Kumar Suman" /></a>
+  <a href="mailto:contact@sonu-kumar.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sonu Kumar Suman" /></a>
 </p>
 
 <p align="center">
