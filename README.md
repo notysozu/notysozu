@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=notysozu&label=Profile%20Views&color=0e75b6&style=flat" alt="Sonu Profile Views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-12,431-0e75b6?style=flat" alt="Sonu Profile Views" />
 </p>
 
 ## ⚡ Quick Bio
