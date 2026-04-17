@@ -25,14 +25,14 @@
   <img src="https://komarev.com/ghpvc/?username=notysozu&label=Profile%20Views&color=0e75b6&style=flat" alt="Sonu Kumar Suman Github Profile Views" />
 </p>
 
-## 🧑‍💻 About Me (Sonu Kumar Suman)
+## <img src="https://api.iconify.design/fa6-solid:user-astronaut.svg?color=%230e75b6" width="24" height="24" style="vertical-align: sub;" /> About Me (Sonu Kumar Suman)
 
-- 🚀 I believe AI feels most useful when it complements human intent - so I pair **thoughtful UI/UX with applied models**.
-- 💡 I am drawn to **early-stage product work**: translating messy insights into a polished flow that travels seamlessly from idea to ship.
-- 🤝 Collaboration is fuel. I love building things with great people!
-- 🌐 Learn more about me and my work on my [official portfolio website: sonu-kumar.in](https://sonu-kumar.in/)
+- <img src="https://api.iconify.design/fa6-solid:rocket.svg?color=%230e75b6" width="16" height="16" style="vertical-align: text-bottom;" /> I believe AI feels most useful when it complements human intent - so I pair **thoughtful UI/UX with applied models**.
+- <img src="https://api.iconify.design/fa6-solid:lightbulb.svg?color=%230e75b6" width="16" height="16" style="vertical-align: text-bottom;" /> I am drawn to **early-stage product work**: translating messy insights into a polished flow that travels seamlessly from idea to ship.
+- <img src="https://api.iconify.design/fa6-solid:handshake.svg?color=%230e75b6" width="16" height="16" style="vertical-align: text-bottom;" /> Collaboration is fuel. I love building things with great people!
+- <img src="https://api.iconify.design/fa6-solid:globe.svg?color=%230e75b6" width="16" height="16" style="vertical-align: text-bottom;" /> Learn more about me and my work on my [official portfolio website: sonu-kumar.in](https://sonu-kumar.in/)
 
-## 🛠️ Tools & Stack
+## <img src="https://api.iconify.design/fa6-solid:screwdriver-wrench.svg?color=%230e75b6" width="24" height="24" style="vertical-align: sub;" /> Tools & Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -45,14 +45,14 @@
 - **Environment**: `GitHub`, `VS Code`, `Arduino IDE`, `Linux (Arch)`
 - **Design & Workflows**: `Figma`, `Notion`, `Discord`
 
-## 🚀 Featured Projects
+## <img src="https://api.iconify.design/fa6-solid:laptop-code.svg?color=%230e75b6" width="24" height="24" style="vertical-align: sub;" /> Featured Projects
 
 - **[smartdesk](https://github.com/notysozu/smartdesk)**: An AI-assisted student feedback intelligence platform designed to help universities collect, cluster, and prioritize student issues using semantic understanding.
 - **[secure-code-env](https://github.com/notysozu/secure-code-env)**: An AI environment for security agents built on the OpenEnv standard. It detects, reproduces, and patches vulnerabilities robustly and safely.
 - **[EchoTrace](https://github.com/notysozu/EchoTrace)**: An audio-first platform letting users experience history through immersive sound, real speeches, and multi-perspective narratives with rich soundscapes.
 - **[why.fi](https://github.com/notysozu/why.fi)**: A webcam-based emotion-mimic game with a gamified, funny, absurd, and slightly chaotic UI featuring a pixel-art inspired internet-native aesthetic.
 
-## 📊 GitHub Stats & Activity
+## <img src="https://api.iconify.design/fa6-solid:chart-column.svg?color=%230e75b6" width="24" height="24" style="vertical-align: sub;" /> GitHub Stats & Activity
 
 <table align="center" width="100%">
   <tr>
@@ -69,7 +69,7 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=notysozu&theme=react-dark" alt="Sonu Kumar Suman GitHub Action Graph" />
 </p>
 
-## 🌐 Connect & Collaborate
+## <img src="https://api.iconify.design/fa6-solid:user-group.svg?color=%230e75b6" width="24" height="24" style="vertical-align: sub;" /> Connect & Collaborate
 
 <div align="center">
   <a href="https://discord.gg/y4KPr7Y2y2">
