@@ -17,7 +17,7 @@
   | <a href="https://discord.gg/hr46n7SNyd">Discord</a>
 </p>
 
-## Builder thesis
+##
 
 I am a student builder at **Sapthagiri NPS University**, using campus as a live lab for product thinking. The pattern I keep returning to is simple: notice a real signal, shape it with software, test it with people, and move the useful parts closer to production.
 
