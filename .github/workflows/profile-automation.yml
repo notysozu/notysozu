@@ -37,8 +37,9 @@ jobs:
             "./assets/svg/banner-campus-to-cloud.svg"
             "./assets/svg/identity-grid.svg"
             "./assets/svg/project-map.svg"
+            "./assets/svg/signal-board.svg"
             "./assets/svg/footer-wave.svg"
-            "./output/github-contribution-grid-snake-dark.svg"
+            "https://raw.githubusercontent.com/notysozu/notysozu/output/github-contribution-grid-snake-dark.svg"
           )
 
           for path in "${required_readme_paths[@]}"; do
@@ -52,6 +53,7 @@ jobs:
             "assets/svg/banner-campus-to-cloud.svg"
             "assets/svg/identity-grid.svg"
             "assets/svg/project-map.svg"
+            "assets/svg/signal-board.svg"
             "assets/svg/footer-wave.svg"
             "docs/asset-prompts.md"
             "docs/gif-storyboards.md"

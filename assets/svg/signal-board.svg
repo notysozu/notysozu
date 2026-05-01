@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="signal-board-title signal-board-desc" viewBox="0 0 1200 360">
+  <title id="signal-board-title">Signal board for notysozu</title>
+  <desc id="signal-board-desc">A local blueprint-style panel summarising current focus, stack direction, public systems, and build rhythm for Sonu Kumar Suman.</desc>
+  <defs>
+    <pattern id="signal-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#1F2937" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="20" fill="#0D1117"/>
+  <rect width="1200" height="360" rx="20" fill="url(#signal-grid)" opacity="0.55"/>
+  <rect x="28" y="28" width="1144" height="304" rx="14" fill="#111827" stroke="#263244"/>
+
+  <g font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+    <text x="54" y="74" fill="#E6EDF3" font-size="25" font-weight="700">Dynamic signal board</text>
+    <text x="54" y="103" fill="#8B949E" font-size="15">A local profile panel for moments when external stat widgets do not render cleanly.</text>
+  </g>
+
+  <g font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+    <g transform="translate(54 138)">
+      <rect width="250" height="146" rx="12" fill="#0F172A" stroke="#22C55E"/>
+      <text x="20" y="34" fill="#E6EDF3" font-size="17" font-weight="700">Current route</text>
+      <text x="20" y="68" fill="#8B949E" font-size="13">campus -> signal -> model</text>
+      <text x="20" y="91" fill="#8B949E" font-size="13">-> interface -> cloud</text>
+      <path d="M20 114H230" stroke="#22C55E" stroke-width="2" stroke-dasharray="6 8"/>
+    </g>
+
+    <g transform="translate(330 138)">
+      <rect width="250" height="146" rx="12" fill="#0F172A" stroke="#06B6D4"/>
+      <text x="20" y="34" fill="#E6EDF3" font-size="17" font-weight="700">Current focus</text>
+      <text x="20" y="68" fill="#8B949E" font-size="13">Agentic AI and usable SaaS</text>
+      <text x="20" y="91" fill="#8B949E" font-size="13">patterns with sharper UX</text>
+      <path d="M20 114H230" stroke="#06B6D4" stroke-width="2" stroke-dasharray="6 8"/>
+    </g>
+
+    <g transform="translate(606 138)">
+      <rect width="250" height="146" rx="12" fill="#0F172A" stroke="#7C3AED"/>
+      <text x="20" y="34" fill="#E6EDF3" font-size="17" font-weight="700">Public systems</text>
+      <text x="20" y="68" fill="#8B949E" font-size="13">smartdesk, secure-code-env,</text>
+      <text x="20" y="91" fill="#8B949E" font-size="13">EchoTrace, why.fi</text>
+      <path d="M20 114H230" stroke="#7C3AED" stroke-width="2" stroke-dasharray="6 8"/>
+    </g>
+
+    <g transform="translate(882 138)">
+      <rect width="250" height="146" rx="12" fill="#0F172A" stroke="#F59E0B"/>
+      <text x="20" y="34" fill="#E6EDF3" font-size="17" font-weight="700">Build style</text>
+      <text x="20" y="68" fill="#8B949E" font-size="13">Prototype quickly, test with</text>
+      <text x="20" y="91" fill="#8B949E" font-size="13">people, then tighten the path</text>
+      <path d="M20 114H230" stroke="#F59E0B" stroke-width="2" stroke-dasharray="6 8"/>
+    </g>
+  </g>
+</svg>
