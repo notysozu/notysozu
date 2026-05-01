@@ -48,7 +48,7 @@ I like stacks that let ideas move quickly without hiding the craft. The goal is 
 | **Frontend** | React, Next.js, TypeScript, JavaScript, Redux |
 | **Backend** | Node.js, API design, server-side product logic |
 | **Databases** | Data modelling and persistence layers as each system needs them |
-| **AI / Automation** | Agentic AI, semantic GenAI, AI-assisted workflows |
+| **AI Automation** | Agentic AI, semantic GenAI, AI-assisted workflows |
 | **Tools** | Git, Figma, GitHub Actions, product prototyping |
 | **Product style** | Prototype close to the user, simplify the path, ship small improvements, keep the interface readable. |
 
