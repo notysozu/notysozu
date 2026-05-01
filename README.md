@@ -32,14 +32,14 @@ My default map is **campus -> signal -> model -> interface -> cloud**. It keeps 
 <p align="center">
   <img src="./assets/svg/project-map.svg" alt="Project map connecting real-world signals to AI layers, interfaces, backend cloud systems, and useful software output" width="100%" />
 </p>
-
+<!-- 
 | System | Signal it listens to | What it turns into |
 | :--- | :--- | :--- |
 | **smartdesk**<br /><br />AI-assisted student feedback intelligence platform for universities. | **Problem it solves:** helps turn student feedback into a clearer signal for campus teams.<br /><br />**Stack:** Semantic GenAI | **Status:** active system concept from the profile portfolio.<br /><br />**Open:** [github.com/notysozu/smartdesk](https://github.com/notysozu/smartdesk)<br />**Demo:** Add when public |
 | **secure-code-env**<br /><br />OpenEnv standard AI environment for detecting and patching vulnerabilities. | **Problem it solves:** explores safer AI-assisted coding workflows for security-sensitive environments.<br /><br />**Stack:** Agentic Security | **Status:** open-source system from the profile portfolio.<br /><br />**Open:** [github.com/notysozu/secure-code-env](https://github.com/notysozu/secure-code-env)<br />**Demo:** Add when public |
 | **EchoTrace**<br /><br />Audio-first platform to experience history through immersive sound. | **Problem it solves:** turns historical context into a more sensory, interface-led experience.<br /><br />**Stack:** Immersive UX | **Status:** product experiment from the profile portfolio.<br /><br />**Open:** [github.com/notysozu/EchoTrace](https://github.com/notysozu/EchoTrace)<br />**Demo:** Add when public |
 
-**Extra systems in the queue:** why.fi, OncoVision-API, DeepGuard, and smaller experiments that test AI, interface, and backend ideas in public.
+**Extra systems in the queue:** why.fi, OncoVision-API, DeepGuard, and smaller experiments that test AI, interface, and backend ideas in public. -->
 
 ## Stack and working style
 
