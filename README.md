@@ -64,28 +64,12 @@ I like stacks that let ideas move quickly without hiding the craft. The goal is 
 | **Current focus** | Agentic AI, scalable SaaS patterns, and UI/UX optimisation |
 | **Preferred motif** | Campus-to-Cloud Blueprint |
 
-## Dynamic signal board
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=notysozu&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&include_all_commits=true" alt="GitHub activity summary for notysozu" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notysozu&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&langs_count=8" alt="Public repository language composition for notysozu" height="170" />
 </p>
 
-<p align="center">
-  <sub>Public language charts show repository composition, not full skill depth.</sub>
-</p>
-
-<p align="center">
-  <img src="./assets/svg/signal-board.svg" alt="Local signal board summarising current focus, stack direction, build style, and public project themes for notysozu" width="100%" />
-</p>
-
-<p align="center">
-  <sub>The local board stays in place as a readable fallback when third-party stat cards are unavailable.</sub>
-</p>
-
-## Contribution narrative
-
-My contribution graph matters when it reflects real work from this account, not a borrowed visual. The animation below is meant to come from the `notysozu` repository output branch after the workflow runs, so it stays tied to my own GitHub activity.
+## Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/notysozu/notysozu/output/github-contribution-grid-snake-dark.svg" alt="Generated contribution snake animation for notysozu based on Sonu Kumar Suman's own GitHub contribution graph" width="100%" />
