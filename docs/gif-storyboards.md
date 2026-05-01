@@ -41,9 +41,9 @@ Purpose: show how a featured system should be presented without inventing missin
 
 Suggested overlay labels should use the real project data when available:
 
-- `{{KEY_PROJECT_1_NAME}}`
-- `{{KEY_PROJECT_2_NAME}}`
-- `{{KEY_PROJECT_3_NAME}}`
+- `smartdesk`
+- `secure-code-env`
+- `EchoTrace`
 
 ## Contribution / Build Rhythm GIF Storyboard
 

@@ -30,7 +30,7 @@ Default palette:
 - Accent green: `#22C55E`
 - Accent orange: `#F59E0B`
 
-If `{{COLOUR_PALETTE}}` is provided, adapt accents first and keep the background close to GitHub dark mode unless the new palette still meets contrast requirements. Avoid one-note palettes; keep at least two accent families visible across route nodes.
+If a new colour palette is provided later, adapt accents first and keep the background close to GitHub dark mode unless the new palette still meets contrast requirements. Avoid one-note palettes; keep at least two accent families visible across route nodes.
 
 ## Accessibility Notes
 
@@ -54,4 +54,4 @@ If `{{COLOUR_PALETTE}}` is provided, adapt accents first and keep the background
 - When changing the route, adjust both the solid path and dashed overlay together.
 - Reuse the same node order everywhere: campus, signal, model, interface, cloud.
 - If adding a new project visual, connect it back to the route metaphor instead of adding a separate theme.
-- Preserve placeholders such as `{{PREFERRED_TONE}}` when source values are not available.
+- Use honest fallback copy such as `Add when public` when source values are not available.

@@ -12,11 +12,9 @@
 <p align="center">
   <a href="https://sonu-kumar.in">Website</a>
   | <a href="https://github.com/notysozu">GitHub</a>
-  | <span>Email: <code>{{EMAIL}}</code></span>
-  | <span>LinkedIn: <code>{{LINKEDIN_URL}}</code></span>
-  | <span>YouTube: <code>{{YOUTUBE_URL}}</code></span>
-  | <span>X: <code>{{X_URL}}</code></span>
-  | <span>Discord: <code>{{DISCORD_URL}}</code></span>
+  | <a href="mailto:contact@sonu-kumar.in">Email</a>
+  | <a href="https://linkedin.com/in/notysozu">LinkedIn</a>
+  | <a href="https://discord.gg/y4KPr7Y2y2">Discord</a>
 </p>
 
 ## Builder thesis
@@ -37,11 +35,11 @@ My default map is **campus -> signal -> model -> interface -> cloud**. It keeps 
 
 | System | Signal it listens to | What it turns into |
 | :--- | :--- | :--- |
-| **{{KEY_PROJECT_1_NAME}}**<br /><br />{{KEY_PROJECT_1_DESC}} | **Problem it solves:** {{KEY_PROJECT_1_DESC}}<br /><br />**Stack:** {{KEY_PROJECT_1_TECH}} | **Status:** system details to be confirmed from the project source.<br /><br />**Open:** {{KEY_PROJECT_1_URL}}<br />**Demo:** {{KEY_PROJECT_1_DEMO_URL}} |
-| **{{KEY_PROJECT_2_NAME}}**<br /><br />{{KEY_PROJECT_2_DESC}} | **Problem it solves:** {{KEY_PROJECT_2_DESC}}<br /><br />**Stack:** {{KEY_PROJECT_2_TECH}} | **Status:** system details to be confirmed from the project source.<br /><br />**Open:** {{KEY_PROJECT_2_URL}}<br />**Demo:** {{KEY_PROJECT_2_DEMO_URL}} |
-| **{{KEY_PROJECT_3_NAME}}**<br /><br />{{KEY_PROJECT_3_DESC}} | **Problem it solves:** {{KEY_PROJECT_3_DESC}}<br /><br />**Stack:** {{KEY_PROJECT_3_TECH}} | **Status:** system details to be confirmed from the project source.<br /><br />**Open:** {{KEY_PROJECT_3_URL}}<br />**Demo:** {{KEY_PROJECT_3_DEMO_URL}} |
+| **smartdesk**<br /><br />AI-assisted student feedback intelligence platform for universities. | **Problem it solves:** helps turn student feedback into a clearer signal for campus teams.<br /><br />**Stack:** Semantic GenAI | **Status:** active system concept from the profile portfolio.<br /><br />**Open:** [github.com/notysozu/smartdesk](https://github.com/notysozu/smartdesk)<br />**Demo:** Add when public |
+| **secure-code-env**<br /><br />OpenEnv standard AI environment for detecting and patching vulnerabilities. | **Problem it solves:** explores safer AI-assisted coding workflows for security-sensitive environments.<br /><br />**Stack:** Agentic Security | **Status:** open-source system from the profile portfolio.<br /><br />**Open:** [github.com/notysozu/secure-code-env](https://github.com/notysozu/secure-code-env)<br />**Demo:** Add when public |
+| **EchoTrace**<br /><br />Audio-first platform to experience history through immersive sound. | **Problem it solves:** turns historical context into a more sensory, interface-led experience.<br /><br />**Stack:** Immersive UX | **Status:** product experiment from the profile portfolio.<br /><br />**Open:** [github.com/notysozu/EchoTrace](https://github.com/notysozu/EchoTrace)<br />**Demo:** Add when public |
 
-**Extra systems in the queue:** {{EXTRA_PROJECTS}}
+**Extra systems in the queue:** why.fi, OncoVision-API, DeepGuard, and smaller experiments that test AI, interface, and backend ideas in public.
 
 ## Stack and working style
 
@@ -49,11 +47,11 @@ I like stacks that let ideas move quickly without hiding the craft. The goal is 
 
 | Layer | Current working set |
 | :--- | :--- |
-| **Frontend** | {{SKILLS_FRONTEND}} |
-| **Backend** | {{SKILLS_BACKEND}} |
-| **Databases** | {{SKILLS_BACKEND}} |
-| **AI / Automation** | {{SKILLS_AI}} |
-| **Tools** | {{SKILLS_CORE}} |
+| **Frontend** | React, Next.js, TypeScript, JavaScript, Redux |
+| **Backend** | Node.js, API design, server-side product logic |
+| **Databases** | Data modelling and persistence layers as each system needs them |
+| **AI / Automation** | Agentic AI, semantic GenAI, AI-assisted workflows |
+| **Tools** | Git, Figma, GitHub Actions, product prototyping |
 | **Product style** | Prototype close to the user, simplify the path, ship small improvements, keep the interface readable. |
 
 ## Education and current focus
@@ -62,11 +60,11 @@ I like stacks that let ideas move quickly without hiding the craft. The goal is 
 | :--- | :--- |
 | **University** | Sapthagiri NPS University |
 | **Primary identity** | AI-native product engineer from campus to cloud |
-| **Tagline** | {{TAGLINE}} |
-| **Primary identity variable** | {{PRIMARY_IDENTITY}} |
-| **Secondary identity** | {{SECONDARY_IDENTITY}} |
-| **Current focus** | {{CURRENT_FOCUS}} |
-| **Preferred motif** | Campus-to-Cloud Blueprint / {{PREFERRED_MOTIF}} |
+| **Tagline** | Campus problems, modelled into usable software |
+| **Primary identity variable** | AI-native product engineer |
+| **Secondary identity** | Full-stack builder with UX taste |
+| **Current focus** | Agentic AI, scalable SaaS patterns, and UI/UX optimisation |
+| **Preferred motif** | Campus-to-Cloud Blueprint |
 
 ## Dynamic signal board
 
@@ -103,17 +101,17 @@ Useful software is the part that survives contact with people.
 
 I am open to thoughtful collaborations around AI-native tools, student workflows, applied automation, full-stack product prototypes, and clean interface systems.
 
-**CTA:** {{CTA_LINE}}
+**CTA:** Bring a real problem, a rough signal, or an early product idea. I can help shape it into a system people can use.
 
-Best route: [sonu-kumar.in](https://sonu-kumar.in) | {{EMAIL}} | {{LINKEDIN_URL}}
+Best route: [sonu-kumar.in](https://sonu-kumar.in) | [contact@sonu-kumar.in](mailto:contact@sonu-kumar.in) | [LinkedIn](https://linkedin.com/in/notysozu)
 
 ## Fun facts
 
 | Small signal | Note |
 | :--- | :--- |
-| **One** | {{FUN_FACT_1}} |
-| **Two** | {{FUN_FACT_2}} |
-| **Three** | {{FUN_FACT_3}} |
+| **One** | I like systems that begin with a messy human workflow and end as a clean product surface. |
+| **Two** | My favourite build loop is prototype, test, simplify, then ship the smaller sharper version. |
+| **Three** | I treat campus as a useful pressure test for software: real constraints, real users, real feedback. |
 
 ## Footer visual
 
