@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="banner-title banner-desc" viewBox="0 0 1200 420">
+  <title id="banner-title">Campus-to-Cloud Blueprint hero banner for Sonu Kumar Suman</title>
+  <desc id="banner-desc">A dark blueprint grid showing a route from campus through signal, model, interface, and cloud nodes for an AI-native product engineer.</desc>
+  <defs>
+    <pattern id="blueprint-grid-small" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#1F2937" stroke-width="1"/>
+    </pattern>
+    <pattern id="blueprint-grid-large" width="96" height="96" patternUnits="userSpaceOnUse">
+      <rect width="96" height="96" fill="url(#blueprint-grid-small)"/>
+      <path d="M96 0H0V96" fill="none" stroke="#243044" stroke-width="1.2"/>
+    </pattern>
+    <linearGradient id="route-gradient" x1="140" y1="0" x2="1040" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22C55E"/>
+      <stop offset="0.34" stop-color="#06B6D4"/>
+      <stop offset="0.7" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <filter id="soft-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.05 0 0 0 0 0.72 0 0 0 0 0.83 0 0 0 0.22 0"/>
+      <feBlend in="SourceGraphic"/>
+    </filter>
+  </defs>
+
+  <g id="background">
+    <rect width="1200" height="420" rx="24" fill="#0D1117"/>
+    <rect width="1200" height="420" rx="24" fill="url(#blueprint-grid-large)" opacity="0.7"/>
+    <path d="M0 342C176 305 266 376 430 336C611 292 685 209 858 240C997 265 1085 315 1200 278V420H0Z" fill="#111827" opacity="0.52"/>
+  </g>
+
+  <g id="copy" fill="#E6EDF3">
+    <text x="72" y="94" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="34" font-weight="700">Sonu Kumar Suman</text>
+    <text x="72" y="130" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="17" fill="#8B949E">@notysozu - AI-native product engineer</text>
+    <text x="72" y="324" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="16" fill="#8B949E">campus -> signal -> model -> interface -> cloud</text>
+  </g>
+
+  <g id="route" filter="url(#soft-glow)">
+    <path d="M150 230C252 164 350 164 448 224S646 287 746 221S943 159 1054 222" fill="none" stroke="url(#route-gradient)" stroke-width="7" stroke-linecap="round"/>
+    <path d="M150 230C252 164 350 164 448 224S646 287 746 221S943 159 1054 222" fill="none" stroke="#E6EDF3" stroke-width="1.2" stroke-dasharray="8 16" opacity="0.42"/>
+  </g>
+
+  <g id="nodes" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="14" font-weight="700">
+    <g id="node-campus" transform="translate(126 196)">
+      <circle cx="24" cy="24" r="24" fill="#10291C" stroke="#22C55E" stroke-width="2"/>
+      <path d="M12 25L24 15L36 25M17 25V37H31V25" fill="none" stroke="#22C55E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="-2" y="68" fill="#E6EDF3">campus</text>
+    </g>
+    <g id="node-signal" transform="translate(424 196)">
+      <circle cx="24" cy="24" r="24" fill="#082D35" stroke="#06B6D4" stroke-width="2"/>
+      <path d="M15 31C20 20 28 20 33 31M11 25C20 10 32 10 41 25" fill="none" stroke="#06B6D4" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="24" cy="32" r="3" fill="#06B6D4"/>
+      <text x="3" y="68" fill="#E6EDF3">signal</text>
+    </g>
+    <g id="node-model" transform="translate(642 238)">
+      <circle cx="24" cy="24" r="24" fill="#211439" stroke="#7C3AED" stroke-width="2"/>
+      <path d="M14 24H34M24 14V34M17 17L31 31M31 17L17 31" stroke="#A78BFA" stroke-width="2" stroke-linecap="round"/>
+      <text x="4" y="68" fill="#E6EDF3">model</text>
+    </g>
+    <g id="node-interface" transform="translate(836 164)">
+      <circle cx="24" cy="24" r="24" fill="#2D230B" stroke="#F59E0B" stroke-width="2"/>
+      <rect x="12" y="14" width="24" height="20" rx="4" fill="none" stroke="#F59E0B" stroke-width="2"/>
+      <path d="M17 20H31M17 27H26" stroke="#FDE68A" stroke-width="2" stroke-linecap="round"/>
+      <text x="-10" y="68" fill="#E6EDF3">interface</text>
+    </g>
+    <g id="node-cloud" transform="translate(1030 198)">
+      <circle cx="24" cy="24" r="24" fill="#101C2F" stroke="#38BDF8" stroke-width="2"/>
+      <path d="M15 31H35C40 31 42 25 38 22C37 15 29 13 25 18C21 15 15 18 16 24C11 24 10 31 15 31Z" fill="none" stroke="#7DD3FC" stroke-width="2" stroke-linejoin="round"/>
+      <text x="5" y="68" fill="#E6EDF3">cloud</text>
+    </g>
+  </g>
+</svg>

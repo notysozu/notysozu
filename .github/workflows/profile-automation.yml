@@ -1,0 +1,88 @@
+name: Profile Automation
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  validate-profile:
+    name: Validate profile README
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Validate README and local asset references
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          test -f README.md
+
+          readme_bytes="$(wc -c < README.md)"
+          max_bytes=122880
+          if [ "${readme_bytes}" -gt "${max_bytes}" ]; then
+            echo "README.md is ${readme_bytes} bytes, which is over the 120 KB limit."
+            exit 1
+          fi
+
+          required_readme_paths=(
+            "./assets/svg/banner-campus-to-cloud.svg"
+            "./assets/svg/identity-grid.svg"
+            "./assets/svg/project-map.svg"
+            "./assets/svg/footer-wave.svg"
+            "./output/github-contribution-grid-snake-dark.svg"
+          )
+
+          for path in "${required_readme_paths[@]}"; do
+            if ! grep -Fq "${path}" README.md; then
+              echo "README.md does not reference ${path}."
+              exit 1
+            fi
+          done
+
+          required_assets=(
+            "assets/svg/banner-campus-to-cloud.svg"
+            "assets/svg/identity-grid.svg"
+            "assets/svg/project-map.svg"
+            "assets/svg/footer-wave.svg"
+            "docs/asset-prompts.md"
+            "docs/gif-storyboards.md"
+          )
+
+          for asset in "${required_assets[@]}"; do
+            if [ ! -f "${asset}" ]; then
+              echo "Missing required profile asset: ${asset}"
+              exit 1
+            fi
+          done
+
+  generate-contribution-snake:
+    name: Generate contribution snake
+    needs: validate-profile
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish snake assets to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

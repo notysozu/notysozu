@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="project-map-title project-map-desc" viewBox="0 0 1200 460">
+  <title id="project-map-title">Campus-to-cloud project map</title>
+  <desc id="project-map-desc">A blueprint diagram showing how real-world signals move through model, interface, backend, and cloud layers to become useful software.</desc>
+  <defs>
+    <pattern id="project-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#1F2937" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="project-line" x1="110" y1="0" x2="1090" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22C55E"/>
+      <stop offset="0.32" stop-color="#06B6D4"/>
+      <stop offset="0.64" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="460" rx="18" fill="#0D1117"/>
+  <rect width="1200" height="460" rx="18" fill="url(#project-grid)" opacity="0.55"/>
+
+  <g id="title" font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+    <text x="58" y="72" fill="#E6EDF3" font-size="25" font-weight="700">How a system gets built</text>
+    <text x="58" y="102" fill="#8B949E" font-size="15">A reusable product route: observe, model, design, connect, ship.</text>
+  </g>
+
+  <g id="flow-line">
+    <path d="M126 245H1074" stroke="url(#project-line)" stroke-width="6" stroke-linecap="round"/>
+    <path d="M126 245H1074" stroke="#E6EDF3" stroke-width="1.1" stroke-dasharray="9 15" opacity="0.4"/>
+  </g>
+
+  <g id="project-layers" font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+    <g id="signals-layer" transform="translate(58 155)">
+      <rect width="196" height="180" rx="12" fill="#111827" stroke="#22C55E"/>
+      <text x="22" y="38" fill="#E6EDF3" font-size="17" font-weight="700">Real-world signals</text>
+      <text x="22" y="72" fill="#8B949E" font-size="13">campus friction</text>
+      <text x="22" y="96" fill="#8B949E" font-size="13">feedback loops</text>
+      <text x="22" y="120" fill="#8B949E" font-size="13">raw behaviour</text>
+      <circle cx="98" cy="90" r="54" fill="none" stroke="#22C55E" stroke-width="1.5" stroke-dasharray="4 9" opacity="0.55"/>
+    </g>
+
+    <g id="model-layer" transform="translate(290 155)">
+      <rect width="196" height="180" rx="12" fill="#111827" stroke="#06B6D4"/>
+      <text x="22" y="38" fill="#E6EDF3" font-size="17" font-weight="700">AI / model layer</text>
+      <text x="22" y="72" fill="#8B949E" font-size="13">classify</text>
+      <text x="22" y="96" fill="#8B949E" font-size="13">summarise</text>
+      <text x="22" y="120" fill="#8B949E" font-size="13">recommend</text>
+      <path d="M66 132H130M98 100V164M76 110L120 154M120 110L76 154" stroke="#06B6D4" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+    </g>
+
+    <g id="interface-layer" transform="translate(522 155)">
+      <rect width="196" height="180" rx="12" fill="#111827" stroke="#7C3AED"/>
+      <text x="22" y="38" fill="#E6EDF3" font-size="17" font-weight="700">Interface layer</text>
+      <text x="22" y="72" fill="#8B949E" font-size="13">usable views</text>
+      <text x="22" y="96" fill="#8B949E" font-size="13">clear decisions</text>
+      <text x="22" y="120" fill="#8B949E" font-size="13">human control</text>
+      <rect x="62" y="132" width="72" height="42" rx="7" fill="none" stroke="#A78BFA" stroke-width="2"/>
+      <path d="M75 147H121M75 160H105" stroke="#A78BFA" stroke-width="2" stroke-linecap="round"/>
+    </g>
+
+    <g id="backend-layer" transform="translate(754 155)">
+      <rect width="196" height="180" rx="12" fill="#111827" stroke="#F59E0B"/>
+      <text x="22" y="38" fill="#E6EDF3" font-size="17" font-weight="700">Backend / cloud</text>
+      <text x="22" y="72" fill="#8B949E" font-size="13">APIs</text>
+      <text x="22" y="96" fill="#8B949E" font-size="13">data paths</text>
+      <text x="22" y="120" fill="#8B949E" font-size="13">deployment</text>
+      <path d="M68 153H128C142 153 148 136 137 128C135 111 113 107 103 120C91 112 72 121 75 138C61 138 57 153 68 153Z" fill="none" stroke="#FBBF24" stroke-width="2"/>
+    </g>
+
+    <g id="output-layer" transform="translate(986 155)">
+      <rect width="156" height="180" rx="12" fill="#111827" stroke="#38BDF8"/>
+      <text x="22" y="38" fill="#E6EDF3" font-size="17" font-weight="700">Useful output</text>
+      <text x="22" y="72" fill="#8B949E" font-size="13">software people</text>
+      <text x="22" y="96" fill="#8B949E" font-size="13">can actually use</text>
+      <path d="M45 139L68 162L113 112" fill="none" stroke="#38BDF8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>
