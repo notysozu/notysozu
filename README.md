@@ -75,7 +75,7 @@ I like stacks that let ideas move quickly without hiding the craft. The goal is 
   <img src="https://raw.githubusercontent.com/notysozu/notysozu/output/github-contribution-grid-snake-dark.svg" alt="Generated contribution snake animation for notysozu based on Sonu Kumar Suman's own GitHub contribution graph" width="100%" />
 </p>
 
-## Build philosophy snippet
+##
 
 ```txt
 campus signal enters
