@@ -67,11 +67,20 @@ I like stacks that let ideas move quickly without hiding the craft. The goal is 
 ## Dynamic signal board
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=notysozu&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&include_all_commits=true" alt="GitHub activity summary for notysozu" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notysozu&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&langs_count=8" alt="Public repository language composition for notysozu" height="170" />
+</p>
+
+<p align="center">
+  <sub>Public language charts show repository composition, not full skill depth.</sub>
+</p>
+
+<p align="center">
   <img src="./assets/svg/signal-board.svg" alt="Local signal board summarising current focus, stack direction, build style, and public project themes for notysozu" width="100%" />
 </p>
 
 <p align="center">
-  <sub>A local board keeps the profile readable even when third-party stat cards are unavailable.</sub>
+  <sub>The local board stays in place as a readable fallback when third-party stat cards are unavailable.</sub>
 </p>
 
 ## Contribution narrative
