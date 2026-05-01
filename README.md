@@ -27,7 +27,7 @@ My default map is **campus -> signal -> model -> interface -> cloud**. It keeps 
   <img src="./assets/svg/identity-grid.svg" alt="Identity modules showing Sonu's AI-native, full-stack, product-minded, human-centred, ship-and-iterate working style" width="100%" />
 </p>
 
-## Featured systems/projects
+##
 
 <p align="center">
   <img src="./assets/svg/project-map.svg" alt="Project map connecting real-world signals to AI layers, interfaces, backend cloud systems, and useful software output" width="100%" />
