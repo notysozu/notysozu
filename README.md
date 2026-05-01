@@ -14,7 +14,7 @@
   | <a href="https://github.com/notysozu">GitHub</a>
   | <a href="mailto:contact@sonu-kumar.in">Email</a>
   | <a href="https://linkedin.com/in/notysozu">LinkedIn</a>
-  | <a href="https://discord.gg/y4KPr7Y2y2">Discord</a>
+  | <a href="https://discord.gg/hr46n7SNyd">Discord</a>
 </p>
 
 ## Builder thesis
