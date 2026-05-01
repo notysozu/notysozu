@@ -103,16 +103,6 @@ I am open to thoughtful collaborations around AI-native tools, student workflows
 
 Best route: [sonu-kumar.in](https://sonu-kumar.in) | [contact@sonu-kumar.in](mailto:contact@sonu-kumar.in) | [LinkedIn](https://linkedin.com/in/notysozu)
 
-## Fun facts
-
-| Small signal | Note |
-| :--- | :--- |
-| **One** | I like systems that begin with a messy human workflow and end as a clean product surface. |
-| **Two** | My favourite build loop is prototype, test, simplify, then ship the smaller sharper version. |
-| **Three** | I treat campus as a useful pressure test for software: real constraints, real users, real feedback. |
-
-## Footer visual
-
 <p align="center">
   <img src="./assets/svg/footer-wave.svg" alt="" width="100%" />
 </p>
