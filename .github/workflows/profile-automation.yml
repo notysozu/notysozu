@@ -37,7 +37,6 @@ jobs:
             "./assets/svg/banner-campus-to-cloud.svg"
             "./assets/svg/identity-grid.svg"
             "./assets/svg/project-map.svg"
-            "./assets/svg/signal-board.svg"
             "./assets/svg/footer-wave.svg"
             "https://raw.githubusercontent.com/notysozu/notysozu/output/github-contribution-grid-snake-dark.svg"
           )
@@ -53,7 +52,6 @@ jobs:
             "assets/svg/banner-campus-to-cloud.svg"
             "assets/svg/identity-grid.svg"
             "assets/svg/project-map.svg"
-            "assets/svg/signal-board.svg"
             "assets/svg/footer-wave.svg"
             "docs/asset-prompts.md"
             "docs/gif-storyboards.md"
